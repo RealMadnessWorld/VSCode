@@ -1,10 +1,21 @@
-# VSCode
-Tips and Tricks for vs code, unfinished, I'll keep adding them as I keep finding them :)
+<div align="center">
+  <h1>
+    VSCode Cheatsheet
+  </h1>
+  <p>Tips and Tricks for vs code, unfinished, I'll keep adding them as I keep finding them :)</p>
+</div>
 
-# Shortcuts
+---
 
-## Window manipulation
-- Zen mode: ```Ctrl + K M``` (full screen editor only, great for small screens. ```Esc``` twice to exit)
+<h1 align="center">
+  Shortcuts
+</h1>
+
+<h2 align="center">
+  Window manipulation
+</h2>
+
+- Zen mode: ```Ctrl + K Z``` (full screen editor only, great for small screens. ```Esc``` twice to exit)
 
 - Quick Open: ```Ctrl + P``` (write ```?``` for suggestion)
 
@@ -20,7 +31,11 @@ Tips and Tricks for vs code, unfinished, I'll keep adding them as I keep finding
 
 - Command Palet: ```Ctrl + Shift + P```
 
-## Editing
+---
+
+<h2 align="center">
+  Editing
+</h2>
 
 - Add cursor: ```Alt + click```
 
@@ -42,7 +57,11 @@ Tips and Tricks for vs code, unfinished, I'll keep adding them as I keep finding
 
 - Forcing suggestion: ```Ctrl + Space```
 
-## Code formatting
+---
+
+<h2 align="center">
+  Code Formatting
+</h2>
 
 - Currently selected source code: ```Ctrl+K Ctrl+F```
 
@@ -50,13 +69,21 @@ Tips and Tricks for vs code, unfinished, I'll keep adding them as I keep finding
 
 - Trim whitespaces trail: ```Ctrl+K Ctrl+X```
 
-## Terminal
+---
+
+<h2 align="center">
+  Terminal
+</h2>
 
 - Open/Close terminal: ```Ctrl + J```
 
 - Errors and Warnings: ```Ctrl + Shift + M```
 
-## Costumization
+---
+
+<h2 align="center">
+  Costumization
+</h2>
 
 - Change theme: ```Ctrl + K Ctrl + T```
 
@@ -64,44 +91,74 @@ Tips and Tricks for vs code, unfinished, I'll keep adding them as I keep finding
 
 - Extesions: ```Ctrl + Shift + X```
 
-## Extras
+---
+
+<h2 align="center">
+  Extras
+</h2>
 
 - Change programming language: ```Ctrl + K M```
 
-## Command Palet commands
+---
+
+<h2 align="center">
+  Command Palet commands
+</h2>
+
+- Convert Indentation to tabs
 
 - transform (used to transform selected text)
 
-## Websites with more tips
+---
 
-- (https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
+<h2 align="center">
+  Documentation
+</h2>
 
+- [VSCode tips and tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
-# Scripting your vscode
+---
 
-## Snippets
+<h1 align="center">
+  Scripting your VSCode
+</h1>
 
-### How to create:
+---
+
+<h1 align="center">
+  Snippets
+</h1>
+
+<h2 align="center">
+  How to create:
+</h2>
 
 - First, open command palet and write "configure user snippets" OR on the top left corner go to *File*>*Prefernces*>*Configure User Snippets*
+  
   ![Screenshot from 2022-10-01 11-57-04](https://user-images.githubusercontent.com/76601093/193406319-37057c78-f0b2-40ec-88d8-2205c5d12441.png)
 
 - Select what type of snippet you want (usually I go for a language snippet or a global depending on what I want to do)
+  
   ![Screenshot from 2022-10-01 12-01-12](https://user-images.githubusercontent.com/76601093/193406505-9704213f-dbfb-4b26-a18a-f3e90152035c.png)
 
 - Example of a C++ basic class snippet and what each part means (I know it doesn't look readable but that's okay, it's going to be printed just fine)
 
   ![Screenshot from 2022-10-01 13-47-51](https://user-images.githubusercontent.com/76601093/193410381-0e84eb3c-7bfa-4e86-aa5e-5fdca82cf57a.png)
 
-### Editing your snippet
+---
+
+<h2 align="center">
+  Editing your snippet
+</h2>
 
 - You may have noticed that in some places in the body of the example above, there is a ***$1*** or a ***$2*** in some places. Those are tab stops, they are used to receive user input.
 
   ![Screenshot from 2022-10-01 13-54-05](https://user-images.githubusercontent.com/76601093/193410550-5a07d6ec-cc3e-4ceb-b46c-2e8f1bbcfbbd.png)
 
-### Snippet tips videos
+---
 
+<h2 align="center">
+  Videos
+</h2>
 
-- Basic to advanced tips, really recommend watching this one:
-    
-    (https://www.youtube.com/watch?v=TGh2NpCIDlc) (less than 10 mins)
+- [Basic to advanced tips](https://www.youtube.com/watch?v=TGh2NpCIDlc) (less than 10 mins)
