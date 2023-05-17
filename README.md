@@ -31,6 +31,8 @@
 
 - Command Palet: ```Ctrl + Shift + P```
 
+- File browser: ```Ctrl + Shift + .```
+
 ---
 
 <h2 align="center">
